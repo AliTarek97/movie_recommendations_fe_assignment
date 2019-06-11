@@ -9,6 +9,6 @@
 
 4- Regarding the movies names exceeding one line , in my point of view  i think a "show more description" button solves this as a read more characteristic.
 
-![alt text](design.PNG)
+![alt text](https://github.com/AliTarek97/movie_recommendations_fe_assignment/blob/master/design.PNG)
 
 ## Thank you
